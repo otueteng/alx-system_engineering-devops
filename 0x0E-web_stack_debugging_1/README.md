@@ -16,3 +16,6 @@ web stack.
   * [1-debugging_made_short](./1-debugging_made_short): Bash script that
   configures Nginx to listen to port 80 without running on all of a server's
   active IPv4's.
+
+# `Web stack debugging 1`
+![](https://cdn.educba.com/academy/wp-content/uploads/2019/09/What-is-Debugging.png)
