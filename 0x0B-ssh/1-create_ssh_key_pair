@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Generating SSH key-pairs according to Task requirements
+# A script that Generates an RSA key pair with 4096 bits and passphrase "betty"
 
 ssh-keygen -t rsa -b 4096 -P betty -f school
